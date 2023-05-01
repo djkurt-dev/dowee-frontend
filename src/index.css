@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+    font-family: "Poppins", sans-serif;
+}
+
+#app-name {
+    font-family: "Pacifico", cursive;
+    /* font-family: "Great Vibes", cursive; */
+    /* font-family: "Neuton", serif; */
+}
